@@ -6,7 +6,7 @@ def using_concat(arr1,arr2)
 end
 
 def using_insert(arr,element)
-  arr.insert(element)
+  arr.insert(4,element)
   puts "I inserted #{element} into my array #{arr}"
 end
 
